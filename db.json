@@ -1,0 +1,28 @@
+{
+    "product": [
+        {
+            "id": "1",
+            "item": "Ice Coffe Palm Sugar",
+            "price": "27000",
+            "img": "./image/cofe.jpg"
+        },
+        {
+            "id": "2",
+            "item": "Ice Coffe Green Tea",
+            "price": "28000",
+            "img": "./image/cofe.jpg"
+        },
+        {
+            "id": "3",
+            "item": "Hanami Latte",
+            "price": "37000",
+            "img": "./image/cofe.jpg"
+        },
+        {
+            "id": "4",
+            "item": "Clepon Coffee",
+            "price": "27000",
+            "img": "./image/cofe.jpg"
+        }
+    ]
+}
