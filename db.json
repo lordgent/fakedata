@@ -4,25 +4,25 @@
             "id": "1",
             "item": "Ice Coffe Palm Sugar",
             "price": "27000",
-            "img": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//100/MTA-9192853/cohve_kopi_kelapa_300ml_-minuman_-_cohve-_-_khusus_pengiriman_grab-gojek_full01_cc8hvsl2.jpg"
+            "imgs": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//100/MTA-9192853/cohve_kopi_kelapa_300ml_-minuman_-_cohve-_-_khusus_pengiriman_grab-gojek_full01_cc8hvsl2.jpg"
         },
         {
             "id": "2",
             "item": "Ice Coffe Green Tea",
             "price": "28000",
-            "img": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//100/MTA-9192853/cohve_kopi_kelapa_300ml_-minuman_-_cohve-_-_khusus_pengiriman_grab-gojek_full01_cc8hvsl2.jpg"
+            "imgs": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//100/MTA-9192853/cohve_kopi_kelapa_300ml_-minuman_-_cohve-_-_khusus_pengiriman_grab-gojek_full01_cc8hvsl2.jpg"
         },
         {
             "id": "3",
             "item": "Hanami Latte",
             "price": "37000",
-            "img": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//100/MTA-9192853/cohve_kopi_kelapa_300ml_-minuman_-_cohve-_-_khusus_pengiriman_grab-gojek_full01_cc8hvsl2.jpg"
+            "imgs": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//100/MTA-9192853/cohve_kopi_kelapa_300ml_-minuman_-_cohve-_-_khusus_pengiriman_grab-gojek_full01_cc8hvsl2.jpg"
         },
         {
             "id": "4",
             "item": "Clepon Coffee",
             "price": "27000",
-            "img": "./image/cofe.jpg"
+            "imgs": "./image/cofe.jpg"
         }
     ]
 }
