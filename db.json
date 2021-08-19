@@ -4,25 +4,49 @@
             "id": "1",
             "item": "Ice Coffe Palm Sugar",
             "price": "27000",
-            "imgs": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//100/MTA-9192853/cohve_kopi_kelapa_300ml_-minuman_-_cohve-_-_khusus_pengiriman_grab-gojek_full01_cc8hvsl2.jpg"
+            "imgs": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//100/MTA-9192853/cohve_kopi_kelapa_300ml_-minuman_-_cohve-_-_khusus_pengiriman_grab-gojek_full01_cc8hvsl2.jpg",
+            "toping": [
+                "Buble tea Gelatin",
+                "Manggo",
+                "Green coconut",
+                "Macha canaloupe"
+            ]
         },
         {
             "id": "2",
             "item": "Ice Coffe Green Tea",
             "price": "28000",
-            "imgs": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//100/MTA-9192853/cohve_kopi_kelapa_300ml_-minuman_-_cohve-_-_khusus_pengiriman_grab-gojek_full01_cc8hvsl2.jpg"
+            "imgs": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//100/MTA-9192853/cohve_kopi_kelapa_300ml_-minuman_-_cohve-_-_khusus_pengiriman_grab-gojek_full01_cc8hvsl2.jpg",
+            "toping": [
+                "Buble tea Gelatin",
+                "Manggo",
+                "Green coconut",
+                "Macha canaloupe"
+            ]
         },
         {
             "id": "3",
             "item": "Hanami Latte",
             "price": "37000",
-            "imgs": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//100/MTA-9192853/cohve_kopi_kelapa_300ml_-minuman_-_cohve-_-_khusus_pengiriman_grab-gojek_full01_cc8hvsl2.jpg"
+            "imgs": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//100/MTA-9192853/cohve_kopi_kelapa_300ml_-minuman_-_cohve-_-_khusus_pengiriman_grab-gojek_full01_cc8hvsl2.jpg",
+            "toping": [
+                "Buble tea Gelatin",
+                "Manggo",
+                "Green coconut",
+                "Macha canaloupe"
+            ]
         },
         {
             "id": "4",
             "item": "Clepon Coffee",
             "price": "27000",
-            "imgs": "https://www.etonline.com/sites/default/files/images/2021-08/Screen%20Shot%202021-08-18%20at%2011.57.58%20AM.png"
+            "imgs": "https://www.etonline.com/sites/default/files/images/2021-08/Screen%20Shot%202021-08-18%20at%2011.57.58%20AM.png",
+            "toping": [
+                "Buble tea Gelatin",
+                "Manggo",
+                "Green coconut",
+                "Macha canaloupe"
+            ]
         }
     ]
 }
