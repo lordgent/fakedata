@@ -28,7 +28,7 @@
             "id": "3",
             "item": "Hanami Latte",
             "price": "37000",
-            "imgs": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//100/MTA-9192853/cohve_kopi_kelapa_300ml_-minuman_-_cohve-_-_khusus_pengiriman_grab-gojek_full01_cc8hvsl2.jpg",
+            "imgs": "/image/ic2.png",
             "toping": [
                 "Buble tea Gelatin",
                 "Manggo",
@@ -40,7 +40,7 @@
             "id": "4",
             "item": "Clepon Coffee",
             "price": "27000",
-            "imgs": "https://www.etonline.com/sites/default/files/images/2021-08/Screen%20Shot%202021-08-18%20at%2011.57.58%20AM.png",
+            "imgs": "/image/ic3.png",
             "toping": [
                 "Buble tea Gelatin",
                 "Manggo",
