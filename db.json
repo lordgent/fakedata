@@ -62,7 +62,7 @@
                 },{
                     "iditem": "2",
                     "item": "Ice Coffee Green Tea",
-                    "imgs": "ic1.png",
+                    "imgs": "ic2.png",
                     "price": "27000",
                     "toping": [
                         {
@@ -112,7 +112,7 @@
                 {
                     "iditem": "3",
                     "item": "Hanami Latte",
-                    "imgs": "ic1.png",
+                    "imgs": "ic3.png",
                     "price": "31000",
                     "toping": [
                         {
