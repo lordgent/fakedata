@@ -6,6 +6,7 @@
             "email": "lordgent@gmail.com",
             "pasword": "12345",
             "role": "adm",
+
             "product": [
                 {
                     "iditem": "1",
@@ -57,8 +58,155 @@
                           "ics": "t8.png"
                          
                      }
-                    
                      ]
+                },{
+                    "iditem": "2",
+                    "item": "Ice Coffee Green Tea",
+                    "imgs": "ic1.png",
+                    "price": "27000",
+                    "toping": [
+                        {
+                            "idtoping": "1",
+                            "topingname": "Bubble Tea",
+                            "ics": "t1.png"
+                        },
+                        {
+                         "idtoping": "2",
+                         "topingname": "Manggo",
+                         "ics": "t2.png"
+                        },
+                        {
+                         "idtoping": "3",
+                         "topingname": "Bil Bary Boba",
+                         "ics": "t3.png"
+                        },
+                        
+                        {
+                         "idtoping": "4",
+                         "topingname": "Boba Manggo",
+                         "ics": "t4.png"
+                        },{
+                         "idtoping": "5",
+                         "topingname": "Green coconut",
+                         "ics": "t5.png"
+                        },{
+                         "idtoping": "6",
+                         "topingname": "Kiwi popping pearl",
+                         "ics": "t6.png"
+                        },
+                        {
+                        
+                          "idtoping": "7",
+                          "topingname": "Kiwi popping pearl",
+                          "ics": "t7.png"
+                         
+                        },
+                        {
+                         "idtoping": "8",
+                          "topingname": "Strawwbery Popping",
+                          "ics": "t8.png"
+                         
+                        }
+                    ]
+                },
+                {
+                    "iditem": "3",
+                    "item": "Hanami Latte",
+                    "imgs": "ic1.png",
+                    "price": "31000",
+                    "toping": [
+                        {
+                            "idtoping": "1",
+                            "topingname": "Bubble Tea",
+                            "ics": "t1.png"
+                        },
+                        {
+                         "idtoping": "2",
+                         "topingname": "Manggo",
+                         "ics": "t2.png"
+                        },
+                        {
+                         "idtoping": "3",
+                         "topingname": "Bil Bary Boba",
+                         "ics": "t3.png"
+                        },
+                        
+                        {
+                         "idtoping": "4",
+                         "topingname": "Boba Manggo",
+                         "ics": "t4.png"
+                        },{
+                         "idtoping": "5",
+                         "topingname": "Green coconut",
+                         "ics": "t5.png"
+                        },{
+                         "idtoping": "6",
+                         "topingname": "Kiwi popping pearl",
+                         "ics": "t6.png"
+                        },
+                        {
+                        
+                          "idtoping": "7",
+                          "topingname": "Kiwi popping pearl",
+                          "ics": "t7.png"
+                         
+                        },
+                        {
+                         "idtoping": "8",
+                          "topingname": "Strawwbery Popping",
+                          "ics": "t8.png"
+                         
+                        }
+                    ]
+                },{
+                    "iditem": "4",
+                    "item": "Clepon Coffee",
+                    "imgs": "ic4.png",
+                    "price": "27000",
+                    "toping": [
+                        {
+                            "idtoping": "1",
+                            "topingname": "Bubble Tea",
+                            "ics": "t1.png"
+                        },
+                        {
+                         "idtoping": "2",
+                         "topingname": "Manggo",
+                         "ics": "t2.png"
+                        },
+                        {
+                         "idtoping": "3",
+                         "topingname": "Bil Bary Boba",
+                         "ics": "t3.png"
+                        },
+                        
+                        {
+                         "idtoping": "4",
+                         "topingname": "Boba Manggo",
+                         "ics": "t4.png"
+                        },{
+                         "idtoping": "5",
+                         "topingname": "Green coconut",
+                         "ics": "t5.png"
+                        },{
+                         "idtoping": "6",
+                         "topingname": "Kiwi popping pearl",
+                         "ics": "t6.png"
+                        },
+                        {
+                        
+                          "idtoping": "7",
+                          "topingname": "Kiwi popping pearl",
+                          "ics": "t7.png"
+                         
+                        },
+                        {
+                         "idtoping": "8",
+                          "topingname": "Strawwbery Popping",
+                          "ics": "t8.png"
+                         
+                        }
+                    ]
                 }
             ]
         },
