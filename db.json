@@ -8,11 +8,11 @@
             "toping": [
                 {
                     "idtoping": "1",
-                    "name": "Buble tea Gelatin",
+                    "topingname": "Buble tea Gelatin",
                     "ics": "t1.png"
                 },{
                     "idtoping": "2",
-                    "name": "Manggo",
+                    "topingname": "Manggo",
                     "ics": "t2.png"
                 },{
                     "idtoping": "3",
