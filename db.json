@@ -3,7 +3,7 @@
         {
             "id": "1",
             "item": "Ice Coffe Palm Sugar",
-            "price": "27000",
+            "price": 27000,
             "imgs": "ic4.png",
             "toping": [
                 {
@@ -49,13 +49,13 @@
         {
             "id": "2",
             "item": "Ice Coffe Green Tea",
-            "price":"28000",
+            "price": 28000,
             "imgs": "ic1.png",
             "toping":
             [
                 {
                     "idtoping": "1",
-                    "name": "Buble tea Gelatin",
+                    "topingname": "Buble tea Gelatin",
                     "ics": "t1.png"
                 },{
                     "idtoping": "2",
@@ -96,7 +96,7 @@
         {
             "id": "3",
             "item": "Hanami Latte",
-            "price": "37000",
+            "price": 31000,
             "imgs": "ic2.png",
             "toping":
              [
@@ -107,7 +107,7 @@
                     "ics": "t1.png"
                 },{
                     "idtoping": "2",
-                    "name": "Manggo",
+                    "topingname": "Manggo",
                     "ics": "t2.png"
                 },{
                     "idtoping": "3",
@@ -145,7 +145,7 @@
         {
             "id": "4",
             "item": "Clepon Coffee",
-            "price": "27000",
+            "price": 31000,
             "imgs": "ic3.png",
             "toping":
             [
